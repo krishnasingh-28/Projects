@@ -103,9 +103,3 @@ Welcome to my collection of projects! This repository contains a variety of proj
 *Feel free to explore each project and provide feedback. I'm always open to collaboration and learning opportunities!*
 
 
-
----
-
-⭐ **Star this repository if you find it helpful!** ⭐
-
-*Feel free to explore each project and provide feedback. I'm always open to collaboration and learning opportunities!*
