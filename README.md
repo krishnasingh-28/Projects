@@ -2,11 +2,13 @@
 
 Welcome to my collection of projects! This repository contains a variety of projects I've worked on, showcasing my skills in different areas of software development.
 
-
+- [Personal Portfolio](https://krishnasingh-28.github.io/)
+- [Face Recognition App](https://github.com/krishnasingh-28/Face-Recognition-App)
+- [Image Classification](https://github.com/krishnasingh-28/Image-Classification)
+- [Product Recommendation System](https://github.com/krishnasingh-28/Product-Recommendation-System)
 - [Password Generator](https://github.com/krishnasingh-28/password-generator)
 - [Weather Forecast App](https://github.com/krishnasingh-28/weather-forecast-app)
-- [Product Recommendation System](https://github.com/krishnasingh-28/Product-Recommendation-System)
-- [Image Classification](https://github.com/krishnasingh-28/Image-Classification)
+
 
 
 
